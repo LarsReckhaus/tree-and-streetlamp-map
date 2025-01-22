@@ -19,8 +19,8 @@ const queries = {
     streetlamps: {
         query: '["highway"="street_lamp"]',
         chart1Attr: 'lamp_type',
-        markerColor: "#ecc700", 
-        markerFill: "#ff5733" 
+        markerColor: "#228B22", 
+        markerFill: "#32CD32" 
     },
 };
 
